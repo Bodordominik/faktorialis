@@ -19,7 +19,4 @@ while (f2 >= 0) {
     e = i2;     // Így az e értéke mindig visszaállítható a kívánt értékre.
 }
 
-
-
-
 }
